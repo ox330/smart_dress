@@ -1,0 +1,6 @@
+# Python虚拟环境
+.venv/
+# 上传的文件夹
+uploads/
+# node_modules
+node_modules/
